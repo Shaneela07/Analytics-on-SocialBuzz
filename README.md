@@ -37,9 +37,9 @@ Apply data cleaning on each dataset,then modelling ,next step to anaysis data th
 
 ** INSIGHTS **
 
-** There are a total  of 16  content categories. Out of which Animal and Science categories are most popular one.
-** 4 types of  mode of content – Photo , Video, Audio and GIF . Out of which people prefer videos and photos the most.
-** People use 16 types of reaction including adore, interested ,disgust , scared, love etc instead of traditional  types(like ,dislike) on Posts.
+* There are a total  of 16  content categories. Out of which Animal and Science categories are most popular one.
+* 4 types of  mode of content – Photo , Video, Audio and GIF . Out of which people prefer videos and photos the most.
+* People use 16 types of reaction including adore, interested ,disgust , scared, love etc instead of traditional  types(like ,dislike) on Posts.
 * May month stands highest with 2138 Posts while  February has 1914 Posts and become lowest in the category..
 
   ** SUGGESTION **
