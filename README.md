@@ -29,3 +29,20 @@ to prove to them that we are the best firm to work with. They are expecting the 
 - Recommendations for a successful IPO 
 - An analysis of their content categories that highlights the top 5 categories with the 
 largest aggregate popularity.
+
+** PROCESS **
+The client has sent 7 data sets and each data set contains different columns and values in which i chose Reaction, Content, Reaction Types Dataset to complete our analysis.
+Apply data cleaning on each dataset,then modelling ,next step to anaysis data through visualization and uncover Insights.
+
+** INSIGHTS **
+
+*There are a total  of 16  content categories. Out of which Animal and Science categories are most popular one.
+*4 types of  mode of content – Photo , Video, Audio and GIF . Out of which people prefer videos and photos the most.
+*People use 16 types of reaction including adore, interested ,disgust , scared, love etc instead of traditional  types(like ,dislike) on Posts.
+*May month stands highest with 2138 Posts while  February has 1914 Posts and become lowest in the category..
+
+  ** SUGGESTION **
+
+Social Buzz should more precisely focus on top 5 categories of content, which is –Animal , Science , Technology , Healthy Eating and Food .
+They should target respective audience through campaign , ads etc.
+Social Buzz need to maximize publish posts in the month of January , May and August as the traffic engagement of these months are highest.
